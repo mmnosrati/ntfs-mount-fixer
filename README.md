@@ -1,7 +1,3 @@
-حتماً! در اینجا یک نمونه `README` برای پروژه شما به انگلیسی تهیه کردم که می‌توانید آن را در GitHub قرار دهید.
-
----
-
 # NTFS Mount Fixer
 
 NTFS Mount Fixer is a simple GUI tool that helps users fix NTFS partition errors on Linux systems. The tool uses `ntfsfix` to clear the "dirty" flag on NTFS partitions, allowing the system to mount them correctly. This application provides an intuitive graphical interface for selecting partitions and running the necessary fix commands.
